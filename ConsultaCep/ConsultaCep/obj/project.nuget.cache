@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "wgIIP0N9tqyZn6TrpN4ycrw/ZIwb/eAobwkdeT5Rf0PDWWt1r1LL8StITOh6fqm4F0HBSJRDR4/a7RVTAm8eOA==",
+  "success": true,
+  "projectFilePath": "D:\\ConsultaCep\\ConsultaCep\\ConsultaCep\\ConsultaCep.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mvini\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\mvini\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\mvini\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\mvini\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+  ],
+  "logs": []
+}
